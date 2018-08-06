@@ -1,11 +1,14 @@
 {
-    "name": "teamtnt/laravel-scout-tntsearch-driver",
+    "name": "webmedia-ede/laravel-scout-tntsearch-driver",
     "description": "Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch",
     "keywords": ["tntsearch", "search", "scout", "laravel"],
     "license": "MIT",
     "authors": [{
         "name": "TNT Studio",
         "email": "info@tntstudio.hr"
+    }, {
+        "name": "Webmedia-Ede",
+        "email": "info@webmedia-ede.nl"
     }],
     "require": {
         "php": ">=7.0",
